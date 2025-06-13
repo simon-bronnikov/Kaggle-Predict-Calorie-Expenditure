@@ -3,7 +3,7 @@
 This repository contains my solution for the [Kaggle Playground Series - S5E5](https://www.kaggle.com/competitions/playground-series-s5e5) regression competition.
 
 🎯 **Objective:** Predict the `Calorie Expenditure` of a man.  
-📏 **Evaluation Metric:** Root Mean Squared Error (RMSLE)
+📏 **Evaluation Metric:** Root Mean Squared Log Error (RMSLE)
 
 ---
 
